@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Ruby">
+            <file name="org-mumoshu-nbxmpfilter-xmpfilter.instance"/>
+        </folder>
+    </folder>
+    <folder name="Editors">
+        <folder name="text">
+            <folder name="x-ruby">
+                <folder name="Popup">
+                    <file name="org-mumoshu-nbxmpfilter-xmpfilter-separatorAfter.instance">
+                        <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                        <attr name="position" intvalue="1400"/>
+                    </file>
+                    <file name="org-mumoshu-nbxmpfilter-xmpfilter.shadow">
+                        <attr name="originalFile" stringvalue="Actions/Ruby/org-mumoshu-nbxmpfilter-xmpfilter.instance"/>
+                        <attr name="position" intvalue="1300"/>
+                    </file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Source">
+            <file name="org-mumoshu-nbxmpfilter-xmpfilter-separatorBefore.instance">
+                <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="3250"/>
+            </file>
+            <file name="org-mumoshu-nbxmpfilter-xmpfilter.shadow">
+                <attr name="originalFile" stringvalue="Actions/Ruby/org-mumoshu-nbxmpfilter-xmpfilter.instance"/>
+                <attr name="position" intvalue="3300"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
